@@ -1,13 +1,8 @@
-# 3D Donut
+# 3D Donut in C
 
 
 
 ![](/output/1.gif)
-
-![](/output/2.gif)
-
-
-
 
 
 
