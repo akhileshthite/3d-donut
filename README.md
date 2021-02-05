@@ -1,6 +1,6 @@
 # 3D Spinning Donut Code in C
 
-![](/output/1.gif)
+![](output.gif)
 
 
 
