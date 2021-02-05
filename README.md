@@ -1,4 +1,4 @@
-# 3D Donut in C
+# 3D Spinning Donut Code In C
 
 
 
